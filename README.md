@@ -5,7 +5,7 @@ A modern, responsive KPI dashboard built with React and Vite, designed to visual
 ---
 
 ## 🚀 Live Demo
-👉 **Live Link:** https://your-live-link.com  
+👉 **Live Link:** https://fb-kpi-dashboard.vercel.app/
 
 
 ## 📸 Screenshots
